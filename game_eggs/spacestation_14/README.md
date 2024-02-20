@@ -29,3 +29,9 @@ Ports required to run the server in a table format.
 <!--Notes about the server ports.-->
 1212 is the default port, but any port can be used.
 
+# Spacestation 14 Fork
+
+this egg is intended for those that want to host versions (forks) of wizards federation version of spacestation 14.
+As spacestation 13 before, the game has a very active community that makes changes to the "original" game.
+To enable this i made this egg that takes any github repo as an input (this could be dangerous, you should trust this repo).
+It also requires a special made server_config.toml for all the panel variables to function propperly. 
